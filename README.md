@@ -6,12 +6,12 @@ MamaConnect is a revolutionary social platform designed to empower and support m
 
 [View our Pitch Deck]([https://github.com/introvertisaac/mamaconnect-v2/blob/main/pitchdeck/MamaConnect_Pitch_Deck.pdf](https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 📊
 
+### 🌐 Pitch Deck
 Pitch deck backup link - https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
+### 🌐 Social Platform
 link to the Social Platform - https://mamaconnect-v2.vercel.app/
+### 🌐 Landing Page, Chatbot, Information Module
 link to the landing page, chatbot, information module for mothers - http://mam-aconnect-git-main-matteratomics-projects.vercel.app/
-
-## 🌟 A Unified Platform for Motherhood 🌟
 
 ### 🌐 Social Platform
 Our social platform serves as the beating heart of MamaConnect, offering a space for mothers to connect, share, and learn from one another. Here's how it works:
