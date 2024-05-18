@@ -61,13 +61,13 @@ Connect with nearby healthcare providers and support networks through our geoloc
 2. **Landing Page:** Creation of an engaging and informative landing page for MamaConnect.
 3. **Information Module:** Implementation of a comprehensive module where mothers can access data on various aspects of motherhood.
 4. **USSD Module:** Integration of USSD functionality to provide maternal health information and resources to mothers in rural areas.
+5.  **Full Integration of Telehealth:** Integrating the teleconferencing module with the social platform to provide seamless access to virtual support groups and expert consultations. 
+6. **Geolocation and Geo-mapping:** Enhancing the geolocation features to better connect mothers with local healthcare providers and support networks.
 
 ### 🚧 Upcoming Milestones
-
-1. **Full Integration of Telehealth:** Integrating the teleconferencing module with the social platform to provide seamless access to virtual support groups and expert consultations. Moving these features under the same codebase to ensure a unified user experience.
-2. **Geolocation and Geo-mapping:** Enhancing the geolocation features to better connect mothers with local healthcare providers and support networks.
-3. **Community Building:** Expanding and moderating subcommunities to ensure active and supportive engagement.
-4. **Advanced Multimedia Sharing:** Further developing the multimedia sharing capabilities to include more interactive and user-friendly features.
+1. **Full integration:**Moving these features under the same codebase to ensure a unified user experience.
+2. **Community Building:** Expanding and moderating subcommunities to ensure active and supportive engagement.
+3. **Advanced Multimedia Sharing:** Further developing the multimedia sharing capabilities to include more interactive and user-friendly features.
 
 ## 👩‍💻 Contributing
 
