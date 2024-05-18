@@ -1,106 +1,84 @@
-# MamaConnect
+# ![MamaConnect Logo](https://github.com/introvertisaac/mamaconnect-v2/raw/main/public/logo.jpeg)
 
-MamaConnect is a next-generation social platform designed to foster inclusive communication and provide a supportive community for new and experienced mothers. This platform aims to disrupt traditional social media by creating a safe, positive, and accessible space for mothers to connect, seek advice, and share their experiences, while also catering to mothers in rural areas through innovative technology solutions.
+Welcome to MamaConnect - your digital haven for motherhood! 🤱💬
 
-## Features
+MamaConnect is a revolutionary social platform designed to empower and support mothers worldwide. From pregnancy to parenthood, we provide a comprehensive suite of tools and resources to help you navigate the joys and challenges of motherhood with confidence.
 
-### Dedicated Communities
-- Specialized groups based on different stages of motherhood (pregnancy, newborns, toddlers, etc.)
-- Moderated by experienced mothers and maternal health professionals
+[View our Pitch Deck]([https://github.com/introvertisaac/mamaconnect-v2/blob/main/pitchdeck/MamaConnect_Pitch_Deck.pdf](https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 📊
 
-### Expert Guidance
-- Real-time Q&A sessions with lactation consultants, doulas, and other experts
-- Curated resource library with reliable information on various aspects of motherhood
+### 🌐 Pitch Deck
+Pitch deck backup link - https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+### 🌐 Social Platform
+link to the Social Platform - https://mamaconnect-v2.vercel.app/
+### 🌐 Landing Page, Chatbot, Information Module
+link to the landing page, chatbot, information module for mothers - http://mam-aconnect-git-main-matteratomics-projects.vercel.app/
+link to codebase for the above - https://github.com/matteratomic/MAMAconnect/tree/main
 
-### Teleconferencing and Live Chat
-- Virtual support groups and group video calls
-- One-on-one chat with mentors or experts
-- ![Teleconferencing Video Placeholder](teleconferencing_placeholder.jpg)
+### 🌐 Social Platform
+Our social platform serves as the beating heart of MamaConnect, offering a space for mothers to connect, share, and learn from one another. Here's how it works:
 
-### Multimedia Sharing
-- Share photos, videos, and other multimedia content related to experiences and milestones
-- Get visual assistance and advice from the community
+- **Subcommunities:** Join specialized groups based on different topics related to motherhood. Whether you're seeking advice on breastfeeding, sharing parenting tips, or discussing pregnancy experiences, there's a community for you.
 
-### Mentorship Program
-- Experienced mothers can volunteer as mentors
-- Provide personalized guidance and support to new mothers
+- **Posts and Discussions:** Share your thoughts, questions, and experiences with the community through posts and engage in discussions with other mothers. You can upvote, downvote, and comment on posts to express support or provide feedback.
 
-### Privacy and Safety
-- Robust moderation tools and content filters
-- User verification processes for a secure environment
+- **Multimedia Sharing:** Share photos, videos, and other multimedia content related to your motherhood journey. Whether it's a cute baby photo, a milestone moment, or a funny parenting meme, our platform allows you to share and celebrate precious moments with fellow mothers.
 
-### Accessibility
-- Closed captioning and text-to-speech functionality
-- Language translation options
+- **Anonymous Posting:** Feel free to post anonymously if you're uncomfortable sharing personal details. We prioritize privacy and ensure that all mothers feel safe and supported in our community.
 
-### Location-Based Connections
-- Connect with mothers in the local area
-- Facilitate meetups and in-person support networks
+## 🚀 Meeting the Goals of the Hackathon 🤖🏙️
 
-### Gamification and Rewards
-- Encourage active participation and positive interactions
-- Earn rewards and recognition for knowledge sharing
+MamaConnect's social platform module aligns with the goals of the hackathon in the following ways:
 
-### USSD Module
-- Unstructured Supplementary Service Data (USSD) integration for rural areas
-- Access maternal health information and resources through basic mobile phones
-- ![USSD Placeholder Image](ussd_placeholder.jpg)
+- **Next-Gen Social Platforms:** By providing a dynamic and engaging online community for mothers, we redefine traditional social platforms to meet the unique needs of mothers worldwide. Our platform fosters meaningful connections, facilitates knowledge sharing, and promotes a supportive environment for mothers to thrive.
 
-### SMS and Call Support
-- Communicate with doctors and experts via SMS or voice calls
-- Receive personalized advice and guidance without internet connectivity
+- **Inclusivity and Accessibility:** Through features like anonymous posting and specialized communities, we prioritize inclusivity and accessibility, ensuring that all mothers, regardless of background or circumstances, feel welcome and empowered to participate.
 
-## Building Process Milestones
+## 🌱 Features That Empower Moms 🌱
 
-1. **Platform Design and Prototyping**
-   - Define user personas and journey maps.
-   - Create wireframes and UI mockups for the social platform.
-   - 👩‍🎨  
+### 📞 Teleconferencing and Live Chat
+Engage in virtual support groups, participate in group video calls, or chat one-on-one with mentors. Our teleconferencing module fosters real-time connections, enabling mothers to seek advice, share experiences, and receive support from a global network of peers and experts.
+- ![Teleconferencing Video Placeholder](https://github.com/introvertisaac/mamaconnect-v2/raw/main/intros/zahara-intro.mp4)
 
-2. **Frontend Development**
-   - Implement frontend architecture using modern web technologies.
-   - Develop user interface components and interaction patterns.
-   - 🖥️
+### 📲 USSD Module
+Access maternal health information and resources even in rural areas with our USSD integration. By bridging the digital divide, we ensure that all mothers, regardless of their location or access to technology, can benefit from our platform's support and guidance.
+- ![USSD Image 1](https://github.com/introvertisaac/mamaconnect-v2/raw/main/ussd-images/WhatsApp%20Image%202024-05-17%20at%2012.32.16%20(1).jpeg)
+- ![USSD Image 2](https://github.com/introvertisaac/mamaconnect-v2/raw/main/ussd-images/WhatsApp%20Image%202024-05-17%20at%2012.32.19%20(2).jpeg)
+- ![USSD Image 3](https://github.com/introvertisaac/mamaconnect-v2/raw/main/ussd-images/WhatsApp%20Image%202024-05-17%20at%2012.32.16%20(2).jpeg)
 
-3. **Backend Development**
-   - Set up server infrastructure and databases.
-   - Develop APIs and backend services for user authentication, data storage, and retrieval.
-   - 💻
+### 🤖 AI and Chatbot
+Our AI-powered chatbot provides personalized recommendations, answers queries, and facilitates communication between mothers and healthcare providers. By leveraging artificial intelligence, we enhance user engagement and accessibility, empowering mothers to make informed decisions about their health and well-being.
 
-4. **Integration of Teleconferencing Platform**
-   - Integrate the teleconferencing module into the social platform.
-   - Implement seamless user experience for joining video calls and live chats.
-   - 📹
+### 📍 Geolocation and Geo-mapping
+Connect with nearby healthcare providers and support networks through our geolocation and geo-mapping feature. Whether you're seeking medical advice, attending a local meetup, or accessing emergency services, our platform makes it easy to find the resources you need, when you need them.
 
-5. **AI Integration**
-   - Integrate AI algorithms for content moderation, recommendation systems, and language translation.
-   - Train AI models on user data to provide personalized recommendations and insights.
-   - 🤖
+## 🛠️ Development Milestones 🛠️
 
-6. **Full Integration with Telehealth Services**
-   - Merge the telehealth platform codebase with the social platform.
-   - Ensure seamless communication between telehealth features and social features.
-   - 📱💊
+### ✔️ Completed Milestones
 
-7. **Testing and Quality Assurance**
-   - Conduct thorough testing of all platform features.
-   - Identify and fix bugs and performance issues.
-   - 🧪
+1. **Chatbot:** Development and integration of the AI-powered chatbot for personalized recommendations and query responses.
+2. **Landing Page:** Creation of an engaging and informative landing page for MamaConnect.
+3. **Information Module:** Implementation of a comprehensive module where mothers can access data on various aspects of motherhood.
+4. **USSD Module:** Integration of USSD functionality to provide maternal health information and resources to mothers in rural areas.
 
-8. **Launch and Community Engagement**
-   - Roll out the platform to a limited audience for initial feedback.
-   - Scale up infrastructure to support growing user base.
-   - Implement marketing and community engagement strategies.
-   - 🚀
+### 🚧 Upcoming Milestones
 
-## Contributing
+1. **Full Integration of Telehealth:** Integrating the teleconferencing module with the social platform to provide seamless access to virtual support groups and expert consultations. Moving these features under the same codebase to ensure a unified user experience.
+2. **Geolocation and Geo-mapping:** Enhancing the geolocation features to better connect mothers with local healthcare providers and support networks.
+3. **Community Building:** Expanding and moderating subcommunities to ensure active and supportive engagement.
+4. **Advanced Multimedia Sharing:** Further developing the multimedia sharing capabilities to include more interactive and user-friendly features.
 
-If you're interested in contributing to MamaConnect, please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+## 👩‍💻 Contributing
 
-## License
+Join us in shaping the future of MamaConnect! Check out our [Contributing Guidelines](CONTRIBUTING.md) for ways to get involved.
+
+## 📜 License
 
 MamaConnect is released under the [MIT License](LICENSE).
 
-## Contact
+## 📧 Contact
 
-For any questions or inquiries, please contact us at [contact@mamaconnect.com](mailto:contact@mamaconnect.com).
+Got questions or feedback? Reach out to us at [contact@mamaconnect.com](mailto:contact@mamaconnect.com). We'd love to hear from you!
+
+---
+
+Embrace motherhood with MamaConnect. Together, we're stronger! 💖✨
