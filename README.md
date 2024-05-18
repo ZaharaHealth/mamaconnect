@@ -8,6 +8,9 @@ MamaConnect is a revolutionary social platform designed to empower and support m
 
 Pitch deck backup link - https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+link to the Social Platform - https://mamaconnect-v2.vercel.app/
+link to the landing page, chatbot, information module for mothers - http://mam-aconnect-git-main-matteratomics-projects.vercel.app/
+
 ## 🌟 A Unified Platform for Motherhood 🌟
 
 ### 🌐 Social Platform
