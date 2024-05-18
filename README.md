@@ -1,8 +1,8 @@
 # ![MamaConnect Logo](https://github.com/introvertisaac/mamaconnect-v2/raw/main/public/logo.jpeg)
 
-Welcome to MamaConnect - your digital haven for motherhood! 🤱💬
+Welcome to MamaConnect - your multifaceted, Multilingual digital haven for motherhood! 🤱💬
 
-MamaConnect is a revolutionary social platform designed to empower and support mothers worldwide. From pregnancy to parenthood, we provide a comprehensive suite of tools and resources to help you navigate the joys and challenges of motherhood with confidence.
+MamaConnect is a revolutionary multilingual social platform designed to empower and support mothers worldwide. From pregnancy to parenthood, we provide a comprehensive suite of tools and resources to help you navigate the joys and challenges of motherhood with confidence.
 
 [View our Pitch Deck]([https://github.com/introvertisaac/mamaconnect-v2/blob/main/pitchdeck/MamaConnect_Pitch_Deck.pdf](https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 📊
 
@@ -18,6 +18,8 @@ link to codebase for the above - https://github.com/matteratomic/MAMAconnect/tre
 Our social platform serves as the beating heart of MamaConnect, offering a space for mothers to connect, share, and learn from one another. Here's how it works:
 
 - **Subcommunities:** Join specialized groups based on different topics related to motherhood. Whether you're seeking advice on breastfeeding, sharing parenting tips, or discussing pregnancy experiences, there's a community for you.
+
+- - **Multilingual:** By using AI, you can use whichever language you are comfortable with and our inbuilt AI will translate it to a language everyone can understand, thus bridging the language barrier. LET US MAKE SURE YOU ARE HEARD.
 
 - **Posts and Discussions:** Share your thoughts, questions, and experiences with the community through posts and engage in discussions with other mothers. You can upvote, downvote, and comment on posts to express support or provide feedback.
 
