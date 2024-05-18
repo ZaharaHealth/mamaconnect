@@ -12,6 +12,7 @@ Pitch deck backup link - https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSs
 link to the Social Platform - https://mamaconnect-v2.vercel.app/
 ### 🌐 Landing Page, Chatbot, Information Module
 link to the landing page, chatbot, information module for mothers - http://mam-aconnect-git-main-matteratomics-projects.vercel.app/
+link to codebase for the above - https://github.com/matteratomic/MAMAconnect/tree/main
 
 ### 🌐 Social Platform
 Our social platform serves as the beating heart of MamaConnect, offering a space for mothers to connect, share, and learn from one another. Here's how it works:
