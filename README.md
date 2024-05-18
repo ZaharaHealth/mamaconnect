@@ -4,6 +4,8 @@ Welcome to MamaConnect - your digital haven for motherhood! 🤱💬
 
 MamaConnect is a revolutionary social platform designed to empower and support mothers worldwide. From pregnancy to parenthood, we provide a comprehensive suite of tools and resources to help you navigate the joys and challenges of motherhood with confidence.
 
+[View our Pitch Deck]([https://github.com/introvertisaac/mamaconnect-v2/blob/main/pitchdeck/MamaConnect_Pitch_Deck.pdf](https://www.canva.com/design/DAGFjzGa1Sc/Tme_hMzckpkGSsODtlyFlA/view?utm_content=DAGFjzGa1Sc&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 📊
+
 ## 🌟 A Unified Platform for Motherhood 🌟
 
 ### 🌐 Social Platform
