@@ -1,12 +1,14 @@
 import { Icons } from '@/components/Icons'
 import UserAuthForm from '@/components/UserAuthForm'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const SignUp = () => {
   return (
     <div className='container mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[400px]'>
       <div className='flex flex-col space-y-2 text-center'>
-        <Icons.logo className='mx-auto h-6 w-6' />
+        {/* <Icons.logo className='mx-auto h-6 w-6' /> */}
+        <div className='mx-auto h-20 w-20' ><Image src="/logo.png" height={60} width={60} alt='logo' /></div>
         <h1 className='text-2xl font-semibold tracking-tight'>Sign Up</h1>
         <p className='text-sm max-w-xs mx-auto'>
           By continuing, you are setting up a MamaConnect account and agree to our

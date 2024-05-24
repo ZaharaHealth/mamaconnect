@@ -11,7 +11,7 @@ import { ReactNode } from 'react'
 
 export const metadata: Metadata = {
   title: 'MamaConnect',
-  description: 'A Reddit clone built with Next.js and TypeScript.',
+  description: 'A support system for mothers by mothers.',
 }
 
 const Layout = async ({
